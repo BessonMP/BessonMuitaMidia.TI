@@ -1,0 +1,22 @@
+#include <stdio.h>
+ 
+int main() {
+ 
+int A, B, C, D;
+    int produto_AB, produto_CD, diferenca;
+
+    scanf("%d", &A);
+    scanf("%d", &B);
+    scanf("%d", &C);
+    scanf("%d", &D);
+
+    produto_AB = A * B;
+    produto_CD = C * D;
+
+    diferenca = produto_AB - produto_CD;
+
+    printf("DIFERENCA = %d\n", diferenca);
+
+ 
+    return 0;
+}
