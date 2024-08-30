@@ -1,0 +1,27 @@
+modelo tcp
+segundo dantas 2002 o modelo de referencia mais conhecido e o tcp/ip(trasmicao ccontrol protocol) o modelo tcp/ip foi prjetado em 04 camadas 
+aplicacao 
+transporte inter internet
+
+Aplicacao a quarta camada do tcp ip e denominada aplicacao pois e nela e feita os protocolos que dao suprote as aplicacoes do usuario
+
+transporte
+a camada de transposrte e responsavel por prover suporte a camada de aplicacao de maneira aon(e arual ou nao independe dos servicoes oferecidos pelas de interface de redes e inter redes
+
+inter irede
+O nivel inter rede(intenet) e o responsavel pelo envio das datagramas de um computador qualquer para o outro independente de suas localizacoes
+interface de rede
+Esta camada de acesso a rede e a primeira do modelo tp/ip sua funcao e dar suporte a camada de rede atraves dos servicoes de acesso fisico e logico ao meio fisico
+p0rotocolo de comunicacao
+0segund0o 0torres 200004 pr0o0cotocolo e a linguagem 0usada pelos da p0os0tivios de uma rede de modo ,que eles c0,ons,igam ,seen,tend0er ou,seja,+ rocar informacoes intreses0antes portanto protocolo e um conjunto de regras que gerenciam a comunicacao de dados
+
+tipos de protocolos
+existem devisrsos tipos de protocolos vamos conhecer os principais 
+http:é usado não só para buscar documentos de hipertexto, mas também imagens e vídeos ou publicar conteúdo em servidores, como nos resultados de formulário HTM
+smtp  um padrão da Internet usado por servidores de e-mail para enviar e receber e-mails
+ftp é um protocolo de rede para a transmissão de arquivos entre computadores. 
+snmp  é um protocolo do conjunto TCP/IP usado para monitorar e gerenciar dispositivos como servidores, storages, roteadores e switches.
+dns converte nomes de domínio legíveis por humanos (por exemplo, www.amazon.com) em endereços IP legíveis por máquina (por exemplo, 192.0.2.44).
+ip  é um endereço exclusivo que identifica um dispositivo na Internet ou em uma rede local
+icmp comunicar problemas com a transmissão de dados.
+arp conecta um endereço de protocolo de internet (IP) em constante mudança a um endereço de máquina físico fixo,
